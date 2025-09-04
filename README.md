@@ -33,6 +33,11 @@ python -m venv bioenv
 source bioenv/bin/activate   # On Linux/Mac
 bioenv\Scripts\activate      # On Windows
 ```
+Dependencies:
+```bash
+biopython
+matplotlib
+```
 
 Install dependencies:
 ```bash
